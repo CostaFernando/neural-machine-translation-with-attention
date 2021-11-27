@@ -1,3 +1,3 @@
 # Neural Machine Translation with Attention
-Neural Machine Translation with Attention + LSTM. Part of Coursera's Natural Language Processing with Attention Models course.
+Neural Machine Translation with Attention + LSTM using [Trax](https://github.com/google/trax) library. Part of Coursera's Natural Language Processing with Attention Models course.
 
